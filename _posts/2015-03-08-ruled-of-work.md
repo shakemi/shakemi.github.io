@@ -4,6 +4,8 @@ title: 出来る人の仕事のしかた を読んだ
 tags: [book]
 ---
 
+{% include google_analytics.html %}
+
 # Amazon
 Kindle 版は出てないみたいだね。
 

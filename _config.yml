@@ -13,3 +13,8 @@ github_username:  shakemi
 # Build settings
 markdown: kramdown
 permalink: /:year-:month-:day-:title.html
+
+analytics:
+  provider: google
+  google:
+    tracking_id: UA-60498643-1
