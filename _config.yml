@@ -12,3 +12,4 @@ github_username:  shakemi
 
 # Build settings
 markdown: kramdown
+permalink: /:year-:month-:day-:title.html
