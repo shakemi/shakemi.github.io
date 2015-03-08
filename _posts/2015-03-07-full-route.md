@@ -4,6 +4,8 @@ title: SRX100 に full route を食わせる
 tags: [routing, juniper]
 ---
 
+{% include google_analytics.html %}
+
 # Motivation
 検証などでフルルートを食わせてみましょうってのがあるけれども、結局どうやるんだろうと。
 

@@ -4,6 +4,8 @@ title: Jekyll で URL の構造を変える
 tags: [jekyll]
 ---
 
+{% include google_analytics.html %}
+
 # Motivation
 /:year/:month/:day/:title.html っていう構造が気にくわないので変える
 

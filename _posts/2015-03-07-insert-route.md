@@ -4,6 +4,8 @@ title: full route 食わせるのが時間掛かり過ぎるので API を試す
 tags: [routing, juniper]
 ---
 
+{% include google_analytics.html %}
+
 # Motivation
 フルルート食わせるのに 3 時間かかるのでどうにかしたい
 
